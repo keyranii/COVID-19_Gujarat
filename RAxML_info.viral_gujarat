@@ -1,0 +1,270 @@
+
+
+IMPORTANT WARNING: Sequences MT435085.1 and MT496994.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT435085.1 and MT496995.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467242.1 and MT481900.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467242.1 and MT496996.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467245.1 and MT467248.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467245.1 and MT560670.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467245.1 and MT560671.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467245.1 and MT560692.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467256.1 and MT467258.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467256.1 and MT496982.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467256.1 and MT607609.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467257.1 and MT481907.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467257.1 and MT496977.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467257.1 and MT496990.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467257.1 and MT675951.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467257.1 and MT676289.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT467257.1 and MT772252.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT509659.1 and MT560657.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT539164.1 and MT539175.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT539165.1 and MT539168.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT539165.1 and MT539171.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT576032.1 and MT576047.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT576032.1 and MT607603.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT576032.1 and MT607620.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT576042.1 and MT607251.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT576042.1 and MT607601.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT576042.1 and MT607606.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT576042.1 and MT607615.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT576042.1 and MT607621.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT576042.1 and MT635856.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT576060.1 and MT953894.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT635855.1 and MT635858.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT664143.1 and MT675933.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT664205.1 and MT675937.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT664796.1 and MT665006.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT664796.1 and MT675938.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT664822.1 and MT675941.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT800043.1 and MT800977.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MT940452.1 and MT950195.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MW242653.1 and MW368700.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MW595950.1 and MW595982.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MW595991.1 and MW595997.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MW595991.1 and MW595999.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences MW595991.1 and MW596237.1 are exactly identical
+
+IMPORTANT WARNING
+Found 44 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /Users/sk/Documents/Gujarat_ViralGenome/sequences_gujarat.aln.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 842 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.12%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 20 inferences on the original alignment using 20 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 842
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+./raxmlHPC-PTHREADS-SSE3 -m GTRCAT -p 12345 -# 20 -T 3 -s /Users/sk/Documents/Gujarat_ViralGenome/sequences_gujarat.aln -n viral_gujarat 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.298 0.184 0.196 0.322 
+
+Inference[0]: Time 112.720361 CAT-based likelihood -47553.836275, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.223851 0.579933 0.211392 0.098142 3.052295 1.000000 
+Inference[1]: Time 162.149185 CAT-based likelihood -47558.401135, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.209800 0.589492 0.211188 0.095905 2.804974 1.000000 
+Inference[2]: Time 112.723115 CAT-based likelihood -47565.580832, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.213598 0.581189 0.207399 0.095282 2.920556 1.000000 
+Inference[3]: Time 105.036513 CAT-based likelihood -47529.092498, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.210673 0.591809 0.210998 0.097263 2.762822 1.000000 
+Inference[4]: Time 173.212398 CAT-based likelihood -47540.126121, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.195050 0.583510 0.198940 0.095313 2.771385 1.000000 
+Inference[5]: Time 182.475708 CAT-based likelihood -47557.977180, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.220539 0.548597 0.214168 0.094550 2.931835 1.000000 
+Inference[6]: Time 172.459438 CAT-based likelihood -47524.529361, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.220128 0.529485 0.189244 0.092462 3.155345 1.000000 
+Inference[7]: Time 202.992327 CAT-based likelihood -47562.437452, best rearrangement setting 15
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.211040 0.574540 0.200719 0.094997 2.876077 1.000000 
+Inference[8]: Time 142.763694 CAT-based likelihood -47541.174698, best rearrangement setting 5
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.177775 0.569918 0.170687 0.098848 2.609002 1.000000 
+Inference[9]: Time 113.127668 CAT-based likelihood -47532.241428, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.198151 0.559788 0.186541 0.094525 2.909112 1.000000 
+Inference[10]: Time 110.130539 CAT-based likelihood -47551.265139, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.218254 0.587601 0.226679 0.096235 3.019072 1.000000 
+Inference[11]: Time 124.268926 CAT-based likelihood -47536.382650, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.198520 0.573660 0.182600 0.101012 2.848857 1.000000 
+Inference[12]: Time 168.744578 CAT-based likelihood -47548.229949, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.226042 0.567313 0.226228 0.099622 3.028994 1.000000 
+Inference[13]: Time 174.615382 CAT-based likelihood -47548.436730, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.224930 0.535399 0.215834 0.099559 3.191233 1.000000 
+Inference[14]: Time 132.177604 CAT-based likelihood -47539.317266, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.227808 0.598890 0.207394 0.099328 3.023507 1.000000 
+Inference[15]: Time 92.513831 CAT-based likelihood -47620.413820, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.211391 0.580801 0.213258 0.093656 2.813867 1.000000 
+Inference[16]: Time 115.028415 CAT-based likelihood -47553.200995, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.209678 0.581274 0.204937 0.095651 2.843313 1.000000 
+Inference[17]: Time 154.210876 CAT-based likelihood -47538.894878, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.212226 0.567144 0.213403 0.094560 2.811622 1.000000 
+Inference[18]: Time 114.790168 CAT-based likelihood -47544.069744, best rearrangement setting 25
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.218238 0.568476 0.206928 0.098391 3.122180 1.000000 
+Inference[19]: Time 193.159067 CAT-based likelihood -47566.513794, best rearrangement setting 15
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.217944 0.593178 0.218390 0.090517 2.911754 1.000000 
+
+
+Conducting final model optimizations on all 20 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -61517.177667 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.0
+Inference[1] final GAMMA-based Likelihood: -61548.584602 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.1
+Inference[2] final GAMMA-based Likelihood: -61562.391792 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.2
+Inference[3] final GAMMA-based Likelihood: -61564.013511 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.3
+Inference[4] final GAMMA-based Likelihood: -61542.440023 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.4
+Inference[5] final GAMMA-based Likelihood: -61591.831578 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.5
+Inference[6] final GAMMA-based Likelihood: -51342.004858 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.6
+Inference[7] final GAMMA-based Likelihood: -61564.145979 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.7
+Inference[8] final GAMMA-based Likelihood: -61537.333727 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.8
+Inference[9] final GAMMA-based Likelihood: -61579.392466 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.9
+Inference[10] final GAMMA-based Likelihood: -61563.577298 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.10
+Inference[11] final GAMMA-based Likelihood: -61563.382295 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.11
+Inference[12] final GAMMA-based Likelihood: -61581.666526 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.12
+Inference[13] final GAMMA-based Likelihood: -61565.089210 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.13
+Inference[14] final GAMMA-based Likelihood: -61569.310786 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.14
+Inference[15] final GAMMA-based Likelihood: -61681.291349 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.15
+Inference[16] final GAMMA-based Likelihood: -61591.062056 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.16
+Inference[17] final GAMMA-based Likelihood: -61593.633900 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.17
+Inference[18] final GAMMA-based Likelihood: -61563.354242 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.18
+Inference[19] final GAMMA-based Likelihood: -61559.119722 tree written to file /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_result.viral_gujarat.RUN.19
+
+
+Starting final GAMMA-based thorough Optimization on tree 6 likelihood -51342.004858 .... 
+
+Final GAMMA-based Score of best tree -51337.528278
+
+Program execution info written to /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_info.viral_gujarat
+Best-scoring ML tree written to: /Users/sk/Downloads/standard-RAxML-8.2.12/RAxML_bestTree.viral_gujarat
+
+Overall execution time: 2987.851435 secs or 0.829959 hours or 0.034582 days
+

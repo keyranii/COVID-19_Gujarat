@@ -1,0 +1,759 @@
+key,place_name,admin_name1,latitude,longitude,accuracy
+IN/360001,Parsi Agiyari Chwok,Gujarat,22.0833,70.9167,
+IN/360002,Rajkot Bhaktinagar,Gujarat,22.0833,70.9167,
+IN/360003,Aji Industrial Estate,Gujarat,22.0833,70.9167,
+IN/360004,Rajkot S N Gurukul,Gujarat,22.0833,70.9167,
+IN/360005,University Campus,Gujarat,22.0833,70.9167,
+IN/360006,Rajkot Bhomeshwar Plot,Gujarat,22.0833,70.9167,
+IN/360022,Sanosra Raj,Gujarat,22.0833,70.9167,
+IN/360023,Ziana,Gujarat,22.0833,70.9167,
+IN/360035,Lodhika,Gujarat,22.1333,70.6333,4
+IN/360050,Jasdan,Gujarat,22.0333,71.2,4
+IN/360110,Paddhari,Gujarat,22.4333,70.6,4
+IN/360360,Jetalsar Jn,Gujarat,21.9429,70.3214,
+IN/360370,Fulwadi,Gujarat,21.9429,70.3214,
+IN/360375,Navagadh,Gujarat,21.9429,70.3214,
+IN/360405,Jam Kandorna,Gujarat,21.8,70.2167,
+IN/360410,Darbargadh,Gujarat,21.8,70.2167,
+IN/360430,Patanvav,Gujarat,21.8,70.2167,
+IN/360452,Chitravad,Gujarat,21.8,70.2167,
+IN/360480,Paneli,Gujarat,21.8667,70.15,4
+IN/360490,Lathi Plot,Gujarat,21.7333,70.2833,
+IN/360530,Darbargadh,Gujarat,21.7,69.6917,
+IN/360545,Adityana,Gujarat,21.7,69.6917,
+IN/360550,Ranavav,Gujarat,21.6833,69.75,4
+IN/360560,Ranavav R S,Gujarat,21.7,69.6917,
+IN/360570,Ranakandorna,Gujarat,21.7,69.6917,
+IN/360572,Vaddla Rana,Gujarat,21.7,69.6917,
+IN/360575,Hanumangufa,Gujarat,21.7,69.6917,
+IN/360578,Chhaya,Gujarat,21.7,69.6917,
+IN/360583,Bakharla,Gujarat,21.7167,69.6333,4
+IN/360590,Bagvadar,Gujarat,21.7,69.6917,
+IN/360592,Fatana,Gujarat,21.7,69.6917,
+IN/361001,Lal Bunglow,Gujarat,22.3292,69.875,
+IN/361002,Jamnagar Bedeshwar,Gujarat,22.3292,69.875,
+IN/361003,Jamnagar Aerodrome,Gujarat,22.3292,69.875,
+IN/361004,Nagar Estate,Gujarat,22.3292,69.875,
+IN/361006,Jamnagar Khodiyar Colony,Gujarat,22.3292,69.875,
+IN/361007,Jamnagar Gulabnagar,Gujarat,22.3292,69.875,
+IN/361008,Jamnagar Patel Colony,Gujarat,22.3292,69.875,
+IN/361009,Jamnagar Udyog,Gujarat,22.3292,69.875,
+IN/361010,Vadinar,Gujarat,22.3292,69.875,
+IN/361011,Hadiana,Gujarat,22.3292,69.875,
+IN/361012,Chela,Gujarat,22.3292,69.875,
+IN/361130,Jam Venthli,Gujarat,22.2083,70.175,
+IN/361160,Kalavad,Gujarat,22.2167,70.3833,4
+IN/361170,Lalpur,Gujarat,22.2,69.9667,4
+IN/361220,Latipur,Gujarat,22.6167,70.5333,4
+IN/361230,Balachadi,Gujarat,22.6,70.2167,4
+IN/361240,Balambha,Gujarat,22.5111,70.2167,
+IN/361280,Kanalus,Gujarat,22.3167,69.9,4
+IN/361295,Jam Gadhka,Gujarat,22.5111,70.2167,
+IN/361301,Nadana,Gujarat,22.2278,69.3333,
+IN/361305,Kalyan Raiji Mandir,Gujarat,22.2278,69.3333,
+IN/361310,Salaya,Gujarat,22.3167,69.6,4
+IN/361316,Ran,Gujarat,22.3167,69.6,
+IN/361320,Jam Kalyanpur,Gujarat,21.9,69.3167,
+IN/361321,Jam Devalia,Gujarat,21.9,69.3167,
+IN/361322,Lamba,Gujarat,21.9,69.3167,4
+IN/361350,Okha,Gujarat,22.4667,69.0833,4
+IN/362001,Bahauddin College Road,Gujarat,21.3778,70.5833,
+IN/362011,Majevadi,Gujarat,21.3778,70.5833,
+IN/362014,Makhiala,Gujarat,21.3778,70.5833,
+IN/362015,Timbavadi,Gujarat,21.3778,70.5833,
+IN/362036,Chhodvadi,Gujarat,21.3778,70.5833,
+IN/362132,Kalsari,Gujarat,21.3778,70.5833,
+IN/362140,Akolwadi,Gujarat,21.3778,70.5833,
+IN/362150,Talala,Gujarat,21.3778,70.5833,
+IN/362151,Ghunsia,Gujarat,21.3778,70.5833,
+IN/362155,Chitravad,Gujarat,21.3778,70.5833,
+IN/362215,Lushala,Gujarat,21.2417,70.25,
+IN/362216,Thana Pipli,Gujarat,21.2417,70.25,
+IN/362220,Limda Chowk,Gujarat,21.3333,70.2333,
+IN/362221,Balagam,Gujarat,21.3667,70.1,4
+IN/362222,Agatrai,Gujarat,21.3667,70.25,4
+IN/362226,Loej,Gujarat,21.3333,70.2333,
+IN/362228,Ajab,Gujarat,21.2667,70.35,4
+IN/362230,Madhavpur Ghed,Gujarat,21.2417,70.25,
+IN/362231,Mander,Gujarat,21.2417,70.25,
+IN/362245,Maliya Hatina,Gujarat,21.2417,70.25,
+IN/362256,Vadodara Dodia,Gujarat,20.9667,70.3,
+IN/362257,Adri,Gujarat,20.9667,70.3,4
+IN/362259,Dari,Gujarat,20.9667,70.3,
+IN/362263,Bagdu,Gujarat,21.2417,70.25,
+IN/362271,Lodhava,Gujarat,21.2417,70.25,
+IN/362310,Vadal,Gujarat,21.45,71.85,4
+IN/362515,Navabunder,Gujarat,20.7,70.9833,
+IN/362520,Diu,Daman and Diu,20.7,70.9833,4
+IN/362530,Saiyad Rajpura,Gujarat,20.7,70.9833,
+IN/362540,Ghoghla,Gujarat,20.7,70.9833,
+IN/362550,Sanakhada,Gujarat,20.7,70.9833,
+IN/362560,Una Sorath,Gujarat,20.7,70.9833,
+IN/362620,Bantwa,Gujarat,21.4833,70.0833,4
+IN/362621,Limbuda,Gujarat,21.4833,70.0833,
+IN/362623,Mahiari,Gujarat,21.4833,70.0833,
+IN/362624,Pajod,Gujarat,21.4833,70.0833,
+IN/362625,Nanadia,Gujarat,21.4833,70.0833,
+IN/362626,Bamansa,Gujarat,21.4833,70.0833,
+IN/362630,Manavadar,Gujarat,21.5,70.1333,4
+IN/362633,Ghed Koylana,Gujarat,21.9,70.6667,
+IN/362634,Sanosra,Gujarat,22.3,71.2,4
+IN/362710,Ghantvad,Gujarat,21.3778,70.5833,
+IN/362721,Harmadia,Gujarat,21.3778,70.5833,
+IN/362727,Vadnagar Kodinar,Gujarat,21.3778,70.5833,
+IN/362730,Timbi,Gujarat,21.3778,70.5833,
+IN/362733,Chhara,Gujarat,21.3778,70.5833,
+IN/363001,M P Shah College,Gujarat,22.7,71.6833,
+IN/363030,Wadhwan City,Gujarat,22.7,71.6833,4
+IN/363035,Wadwan City Ie,Gujarat,22.7,71.6833,
+IN/363320,Rajsitapur,Gujarat,22.5542,71.6167,
+IN/363330,Halvad Bazar,Gujarat,22.5542,71.6167,
+IN/363331,Charadava,Gujarat,22.5542,71.6167,
+IN/363333,Tikar Rana,Gujarat,22.5542,71.6167,
+IN/363416,Nagnesh,Gujarat,22.4056,72.4333,
+IN/363421,Limbdi,Gujarat,22.5667,71.8,4
+IN/363423,Pansina,Gujarat,22.55,71.9667,4
+IN/363424,Jambu,Gujarat,22.5583,71.8833,
+IN/363425,Hadala Bhal,Gujarat,22.5583,71.8833,
+IN/363435,Rampura,Gujarat,22.1,73.5333,4
+IN/363530,Thangadh,Gujarat,22.5667,71.1833,4
+IN/363535,Lunsar,Gujarat,22.6667,71.1,4
+IN/363621,Wankaner,Gujarat,22.6167,70.9333,4
+IN/363622,Wankaner Amarpura,Gujarat,22.6167,70.9333,
+IN/363626,Daldi,Gujarat,22.6167,70.9333,
+IN/363641,Sakti Plot,Gujarat,22.6417,70.8333,
+IN/363650,Tankara,Gujarat,22.6667,70.7333,4
+IN/363670,Maliya Miyana,Gujarat,22.6417,70.8333,
+IN/364001,Wadava,Gujarat,21.6833,72.1667,
+IN/364002,B P T E,Gujarat,21.6833,72.1667,
+IN/364055,Nari,Gujarat,21.7667,72.0667,4
+IN/364071,Hathab,Gujarat,21.6,72.2667,4
+IN/364120,Tansa,Gujarat,21.5167,72.1167,4
+IN/364130,Datha,Gujarat,21.6833,71.95,4
+IN/364131,Kalsar Bhav,Gujarat,21.6833,71.95,
+IN/364140,Talaja,Gujarat,21.35,72.05,4
+IN/364145,Thaliya,Gujarat,21.35,72.05,
+IN/364146,Bagdana,Gujarat,21.35,72.05,
+IN/364220,Damnagar,Gujarat,21.7,71.5167,4
+IN/364230,Sanosra,Gujarat,22.3,71.2,
+IN/364240,Gandhi Chowk,Gujarat,21.4333,71.7167,
+IN/364241,Ghanghli,Gujarat,21.4333,71.7167,
+IN/364245,Madhada,Gujarat,21.4333,71.7167,
+IN/364260,Tana,Gujarat,21.4333,71.7167,
+IN/364265,Gheti,Gujarat,21.4333,71.7167,
+IN/364270,Palitana,Gujarat,21.5167,71.8333,4
+IN/364275,Parvadi,Gujarat,21.5167,71.8333,
+IN/364290,Mahuva,Gujarat,21.0833,71.8,4
+IN/364292,Nana Jadra,Gujarat,21.0833,71.8,
+IN/364293,Talgajarda,Gujarat,21.0833,71.8,
+IN/364296,Ghundarana,Gujarat,21.0833,71.8,
+IN/364297,Vaghnagar,Gujarat,21.0833,71.8,
+IN/364312,Pachhegam,Gujarat,21.9167,71.85,4
+IN/364315,Chamardi (Bhav),Gujarat,21.9167,71.85,
+IN/364330,Umrala,Gujarat,22.0333,70.3,4
+IN/364335,Chogath,Gujarat,22.0333,70.3,
+IN/364410,Chamardi,Gujarat,21.8333,71.9167,4
+IN/364421,Babra,Gujarat,21.85,71.3,4
+IN/364430,Lathi,Gujarat,21.7167,71.3833,4
+IN/364431,Akala,Gujarat,21.7167,71.3833,
+IN/364435,Chavand,Gujarat,21.7167,71.3833,
+IN/364445,Hamapur,Gujarat,21.8,71.5333,
+IN/364456,Vaghania,Gujarat,21.8,71.5333,
+IN/364460,Lunidhar,Gujarat,21.8,71.5333,
+IN/364480,Vadia,Gujarat,21.8,71.5333,
+IN/364481,Tori,Gujarat,21.8,71.5333,
+IN/364505,Gariyadhar,Gujarat,21.5333,71.5833,4
+IN/364510,Jesar,Gujarat,21.3333,71.32,
+IN/364522,Bagasra,Gujarat,21.4833,70.95,4
+IN/364535,Liliya,Gujarat,21.55,71.35,4
+IN/364536,Saldi,Gujarat,21.55,71.35,
+IN/364540,Jafrabad,Gujarat,21.3333,71.32,
+IN/364545,Nageshri,Gujarat,21.3333,71.32,
+IN/364550,Dedan,Gujarat,21.05,71.2833,4
+IN/364560,Rajula,Gujarat,21.05,71.4333,4
+IN/364601,Jesingpura,Gujarat,21.4611,71.0944,
+IN/364610,Babapur,Gujarat,21.4611,71.0944,
+IN/364616,Jalia Amreli,Gujarat,21.4611,71.0944,
+IN/364620,Chital,Gujarat,21.7333,71.2,4
+IN/364630,Chalala,Gujarat,21.4167,71.1667,4
+IN/364641,Dalkhania,Gujarat,21.2333,70.9167,4
+IN/364710,R S,Gujarat,21.7389,72.0333,
+IN/364712,Lathidad,Gujarat,21.7389,72.0333,
+IN/364720,Paliyad,Gujarat,22.25,71.5667,4
+IN/364741,Jalalpur,Gujarat,20.9667,72.9,4
+IN/364750,Gadhda S N,Gujarat,21.7389,72.0333,
+IN/364765,Ugamedi,Gujarat,22,71.6333,4
+IN/370001,Darbargadh Chowk,Gujarat,23.4577,70.0026,
+IN/370007,Loria,Gujarat,23.4577,70.0026,
+IN/370015,B S F Bhuj,Gujarat,23.4577,70.0026,
+IN/370020,Madhavpur Kachchh,Gujarat,23.4577,70.0026,
+IN/370110,Ganga Bazar,Gujarat,23.5,70.6917,
+IN/370132,Nagalpur K,Gujarat,23.4,70.5167,
+IN/370135,Adhoi,Gujarat,23.4,70.5167,4
+IN/370141,Chobari,Gujarat,23.5167,70.35,4
+IN/370145,Lakadia,Gujarat,23.35,70.5833,4
+IN/370146,Gagodar,Gujarat,23.4333,70.4667,
+IN/370150,Samakhiali,Gujarat,23.3333,70.5833,4
+IN/370155,Adesar,Gujarat,23.55,70.9833,4
+IN/370156,Fatehgadh,Gujarat,23.6833,70.85,4
+IN/370157,Palansva,Gujarat,23.4667,70.9333,4
+IN/370165,R Bazar,Gujarat,23.7,70.7333,
+IN/370169,Gedi,Gujarat,23.7,70.7333,4
+IN/370170,Gadhda Khadir,Gujarat,23.5,70.6917,
+IN/370203,Udayanagar,Gujarat,23.4577,70.0026,
+IN/370205,Adipur,Gujarat,23.4577,70.0026,
+IN/370210,Kandla Port Harbour,Gujarat,23.4577,70.0026,
+IN/370230,Kandla F T Z,Gujarat,23.4577,70.0026,
+IN/370406,Zarpara,Gujarat,23.4577,70.0026,
+IN/370427,Baladia,Gujarat,23.4577,70.0026,
+IN/370429,Naranpur,Gujarat,23.4577,70.0026,
+IN/370445,Gadhsisa,Gujarat,23.4577,70.0026,
+IN/370465,Mandvi H O,Gujarat,23.4577,70.0026,
+IN/370472,Kandagara,Gujarat,23.4577,70.0026,
+IN/370475,Laija,Gujarat,23.4577,70.0026,
+IN/370485,Dahisara (Kutch),Gujarat,23.4577,70.0026,
+IN/370615,Nakhtrana,Gujarat,23.3333,69.25,4
+IN/370627,Gaduli,Gujarat,23.39,68.9,
+IN/370630,Lakhpat,Gujarat,23.8167,68.7833,4
+IN/370640,Jakhau,Gujarat,23.2167,68.7167,4
+IN/370655,Naliya,Gujarat,23.2667,68.8333,4
+IN/370660,Tera,Gujarat,23.3167,68.9167,4
+IN/380001,Raipur,Gujarat,30.25,77.5833,4
+IN/380002,N C Market,Gujarat,26.6667,75.125,
+IN/380003,Ahmedabad Civil,Gujarat,26.6667,75.125,
+IN/380004,Tavdipura,Gujarat,26.6667,75.125,
+IN/380005,Sabarmati,Gujarat,23.0833,72.6667,4
+IN/380006,Ellisbridge,Gujarat,26.6667,75.125,
+IN/380007,Ahmedabad Paldi,Gujarat,26.6667,75.125,
+IN/380008,Daxini Society,Gujarat,26.6667,75.125,
+IN/380012,Ahmedabad Air Port,Gujarat,25.2042,73.6792,
+IN/380013,Naranpura Vistar,Gujarat,25.2042,73.6792,
+IN/380015,Indian Institute Of Management,Gujarat,25.2042,73.6792,
+IN/380016,Hospital,Gujarat,25.2042,73.6792,
+IN/380018,Ahmedabad Saraspur,Gujarat,25.2042,73.6792,
+IN/380019,Ahmedabad Railway Colony,Gujarat,25.2042,73.6792,
+IN/380021,Rakhial,Gujarat,23.0333,72.6167,
+IN/380022,Calico Mills,Gujarat,23.0333,72.6167,
+IN/380023,Ahmedabad Rakhialudyog Vi,Gujarat,23.0333,72.6167,
+IN/380024,Bapu Nagar I E,Gujarat,23.0333,72.6167,
+IN/380025,Ahmedabad,Gujarat,23.0333,72.6167,4
+IN/380026,Ahmedabad Amraiwadi,Gujarat,23.0333,72.6167,
+IN/380027,Gandhi Ashram Ahmedabad,Gujarat,23.0333,72.6167,
+IN/380028,Ahmedabad Space,Gujarat,23.0333,72.6167,
+IN/380050,Ghodasar,Gujarat,24.45,71.85,4
+IN/380051,Ahmedabad Jivrajpark,Gujarat,24.45,71.85,
+IN/380054,Ahmedabad Thaltej Road,Gujarat,24.45,71.85,
+IN/380055,Ahmedabad Juhapura,Gujarat,24.45,71.85,
+IN/380061,Ghatlodia Ahmedabad,Gujarat,25.2042,73.6792,
+IN/382009,Gandhi Nagar Sector 9,Gujarat,23.1733,72.4283,
+IN/382010,Gandhi Nagar H O,Gujarat,23.1733,72.4283,
+IN/382016,Ghandhinagar Sector 16,Gujarat,23.1733,72.4283,
+IN/382017,Gandhi Nagar Sector 17,Gujarat,23.1733,72.4283,
+IN/382019,Gandhi Nagar Sector 19,Gujarat,23.1733,72.4283,
+IN/382020,Gandhi Nagar Sector 20,Gujarat,23.1733,72.4283,
+IN/382021,Gandhi Nagar Sector 21,Gujarat,23.1733,72.4283,
+IN/382022,Gandhi Nagar Sector 22,Gujarat,23.1733,72.4283,
+IN/382023,Gandhi Nagar Sector 24,Gujarat,23.1733,72.4283,
+IN/382028,Gandhi Nagar Sector 28,Gujarat,23.1733,72.4283,
+IN/382029,Gandhi Nagar Sector 29,Gujarat,23.1733,72.4283,
+IN/382030,Gandhi Nagar Sector 30,Gujarat,23.1733,72.4283,
+IN/382041,Gandhi Nagar T P S,Gujarat,23.1733,72.4283,
+IN/382042,Gandhi Nagar C R P F Camp,Gujarat,23.1733,72.4283,
+IN/382043,K P T,Gujarat,23.1733,72.4283,
+IN/382110,Sanand,Gujarat,22.9833,72.3833,4
+IN/382130,Mandal,Gujarat,23.3,71.9167,4
+IN/382140,Rampura Bhankoda,Gujarat,23.1444,72.1889,
+IN/382165,Kalyanpura,Gujarat,23.15,72.2667,
+IN/382166,Agol,Gujarat,23.15,72.2667,4
+IN/382220,Bavla,Gujarat,22.8,72.45,
+IN/382230,Lothal Bhurkhi R S,Gujarat,22.8,72.45,
+IN/382255,Jalila,Gujarat,22.8,72.45,
+IN/382260,Chaloda,Gujarat,22.8,72.45,4
+IN/382270,Badarkha,Gujarat,22.8,72.45,
+IN/382305,Dahegam,Gujarat,23.1667,72.8167,4
+IN/382308,Bahiyal,Gujarat,23.1667,72.8167,
+IN/382310,Nandol,Gujarat,23.2,72.8167,4
+IN/382315,Rakhial R S,Gujarat,23.2,72.8167,
+IN/382316,Ujedia,Gujarat,23.2,72.8167,
+IN/382320,Sadra,Gujarat,23.0833,72.6667,
+IN/382321,Chhala,Gujarat,23.0833,72.6667,
+IN/382325,Naroda,Gujarat,23.0833,72.6667,4
+IN/382330,Naroda I E,Gujarat,23.1542,72.7583,
+IN/382345,Saijpur Bogha,Gujarat,23.1542,72.7583,
+IN/382350,Thakkar Bapanagar,Gujarat,23.1667,72.7333,
+IN/382355,Dabhoda,Gujarat,23.1667,72.7333,4
+IN/382405,Narol,Gujarat,22.8667,72.5917,
+IN/382410,Odhav G V M M Nd,Gujarat,22.8667,72.5917,
+IN/382415,Odhav I E,Gujarat,22.8667,72.5917,
+IN/382421,Adalaj,Gujarat,22.8667,72.5917,
+IN/382422,Uvarsad,Gujarat,22.8667,72.5917,
+IN/382423,Kasturinagar Sertha,Gujarat,22.8667,72.5917,
+IN/382424,Chand Kheda,Gujarat,22.8667,72.5917,
+IN/382425,Bareja,Gujarat,22.85,72.5833,4
+IN/382426,Jetalpur,Gujarat,22.8833,72.6,4
+IN/382435,Nandej,Gujarat,22.8667,72.5917,
+IN/382443,Isanpur,Gujarat,22.8667,72.5917,
+IN/382449,Janta Nagar,Gujarat,22.8667,72.5917,
+IN/382450,Barwala Ghelasa,Gujarat,22.8667,72.5917,
+IN/382451,Salangpur Hanuman,Gujarat,22.8667,72.5917,
+IN/382465,Fedra Fertilizemagar,Gujarat,22.8667,72.5917,
+IN/382470,Digvijagar,Gujarat,22.8667,72.5917,
+IN/382481,Chandlodia,Gujarat,22.8667,72.5917,
+IN/382610,Pethapur,Gujarat,23.1733,72.4283,
+IN/382620,Randheja,Gujarat,23.1733,72.4283,
+IN/382630,Rupal,Gujarat,23.1733,72.4283,
+IN/382640,Sardhev,Gujarat,23.1733,72.4283,
+IN/382650,Unava Balva,Gujarat,23.1733,72.4283,
+IN/382655,Balva,Gujarat,23.1733,72.4283,
+IN/382704,Charadu,Gujarat,23.375,72.425,
+IN/382705,Dangarva,Gujarat,23.3833,72.45,4
+IN/382706,Nandasan,Gujarat,23.3667,72.4,4
+IN/382708,Vadasma,Gujarat,23.375,72.425,
+IN/382709,VADU Mahesana,Gujarat,23.375,72.425,
+IN/382710,Jagidan,Gujarat,23.3,72.3333,
+IN/382713,Akhaj,Gujarat,23.3,72.3333,
+IN/382715,Kadi,Gujarat,23.3,72.3333,4
+IN/382718,Ghumansan,Gujarat,23.3,72.3333,
+IN/382721,Industrial Estate,Gujarat,23.1333,72.3667,
+IN/382725,Kaloli E,Gujarat,23.1333,72.3667,
+IN/382726,Adraj Merda,Gujarat,23.1333,72.3667,
+IN/382728,Thol,Gujarat,23.1333,72.3667,4
+IN/382729,Chhatral,Gujarat,23.1333,72.3667,
+IN/382730,Langhnej,Gujarat,23.3333,72.5667,
+IN/382733,Saij,Gujarat,23.3333,72.5667,
+IN/382734,Wamaj,Gujarat,23.3333,72.5667,
+IN/382735,Nardipur,Gujarat,23.3333,72.5667,4
+IN/382736,Jamla,Gujarat,23.3333,72.5667,
+IN/382737,Paliad Veda,Gujarat,23.3333,72.5667,
+IN/382739,Limbodara,Gujarat,23.3333,72.5667,
+IN/382740,Pansar,Gujarat,23.1167,71.7667,
+IN/382743,Isand,Gujarat,23.1167,71.7667,
+IN/382745,Bajana,Gujarat,23.1167,71.7667,4
+IN/382750,Dasada,Gujarat,23.3167,71.8333,4
+IN/382755,Zinzuwada,Gujarat,23.3167,71.8333,
+IN/382760,R S,Gujarat,23.225,72.1875,
+IN/382765,Patdi,Gujarat,23.225,72.1875,
+IN/382775,Lakhtar,Gujarat,22.85,71.7833,4
+IN/382780,Adariyana,Gujarat,23.225,72.1875,
+IN/382810,Charada,Gujarat,23.5417,72.9167,
+IN/382815,Gavada,Gujarat,23.5417,72.9167,
+IN/382816,Malosan,Gujarat,23.5417,72.9167,
+IN/382820,Gerita Kolvada R S,Gujarat,23.5417,72.9167,
+IN/382823,Samau,Gujarat,23.5417,72.9167,
+IN/382833,Vadasan,Gujarat,23.5417,72.9167,
+IN/382835,Lodra,Gujarat,23.5417,72.9167,
+IN/382840,Ladol,Gujarat,23.6167,72.7333,4
+IN/382857,Mahudi,Gujarat,23.5417,72.9167,
+IN/382861,Jantral,Gujarat,23.5417,72.9167,
+IN/382863,Fudeda,Gujarat,23.5417,72.9167,
+IN/382867,Dabhla,Gujarat,23.5417,72.9167,
+IN/382868,Tintodan,Gujarat,23.5417,72.9167,
+IN/382871,Ghantu Dhanpura,Gujarat,23.5417,72.9167,
+IN/382875,Nava Sangpur,Gujarat,23.5417,72.9167,
+IN/382880,Ranasan,Gujarat,23.4667,73.1,4
+IN/383001,Hajipura,Gujarat,23.5762,74.9214,
+IN/383030,Gambhoi,Gujarat,23.5762,74.9214,
+IN/383110,Jadar,Gujarat,23.5762,74.9214,
+IN/383120,Salal,Gujarat,23.5762,74.9214,
+IN/383205,Nani Bhaghol,Gujarat,24.65,79.6583,
+IN/383215,Talod,Gujarat,24.65,79.6583,
+IN/383220,Illol,Gujarat,24.65,79.6583,
+IN/383225,Davad,Gujarat,24.65,79.6583,
+IN/383230,Umedgadh,Gujarat,22.2,70.8667,
+IN/383235,Vadali,Gujarat,22.2,70.8667,4
+IN/383240,Bamna,Gujarat,27.1,88.45,
+IN/383245,Bazar,Gujarat,27.1,88.45,4
+IN/383246,Takatuka,Gujarat,27.1,88.45,
+IN/383250,Tintoi,Gujarat,24.65,79.6583,
+IN/383251,Lusadia,Gujarat,24.65,79.6583,
+IN/383255,R S,Gujarat,24.65,79.6583,
+IN/383270,Radhivad,Gujarat,24.65,79.6583,
+IN/383275,Laxmipura,Gujarat,24.65,79.6583,
+IN/383276,Raigadh,Gujarat,24.65,79.6583,
+IN/383305,Harsol,Gujarat,23.3667,73,4
+IN/383307,Vadagam Sk,Gujarat,23.3667,73,
+IN/383325,Bayad,Gujarat,23.2167,73.2167,4
+IN/383327,Choila,Gujarat,23.2167,73.2167,
+IN/383335,Gabat,Gujarat,23.2667,73.35,4
+IN/383345,Malpur,Gujarat,22.05,72.5667,4
+IN/383410,Badoli,Gujarat,23.8333,73,
+IN/383421,Chithoda,Gujarat,23.8333,73,
+IN/383430,Idar,Gujarat,23.8333,73,4
+IN/383440,Kadiadra,Gujarat,23.8333,73,
+IN/383462,Kadiawada,Gujarat,23.8333,73,
+IN/383781,Fatepur (Sk),Gujarat,23.5762,74.9214,
+IN/384001,Mahesana H O,Gujarat,23.5037,72.1241,
+IN/384002,Railway Colony,Gujarat,23.5037,72.1241,
+IN/384011,Gambhu,Gujarat,23.5037,72.1241,
+IN/384110,Balisana,Gujarat,23.5037,72.1241,
+IN/384121,Daumoti,Gujarat,23.5037,72.1241,
+IN/384122,Jetalvasna,Gujarat,23.5037,72.1241,
+IN/384130,Kahoda,Gujarat,23.5037,72.1241,
+IN/384132,Lunva,Gujarat,23.5037,72.1241,
+IN/384133,Mandali,Gujarat,23.5037,72.1241,
+IN/384140,Kamli,Gujarat,23.5037,72.1241,
+IN/384151,Zampli Pole,Gujarat,23.5037,72.1241,
+IN/384160,Unava,Gujarat,23.5037,72.1241,
+IN/384170,Unjha H O,Gujarat,23.5037,72.1241,
+IN/384172,Dasaj,Gujarat,23.5037,72.1241,
+IN/384175,Aithor,Gujarat,23.5037,72.1241,
+IN/384177,Upera,Gujarat,23.5037,72.1241,
+IN/384178,Maktupur,Gujarat,23.5037,72.1241,
+IN/384205,Panchot,Gujarat,23.63,71.98,
+IN/384206,Palodar,Gujarat,23.63,71.98,
+IN/384207,Chhatiarda,Gujarat,23.63,71.98,
+IN/384211,Sankhalpur,Gujarat,23.5333,72.0333,4
+IN/384213,Kalri,Gujarat,23.5167,72.0667,4
+IN/384220,Chanasma,Gujarat,23.7167,72.1167,4
+IN/384221,Vadavli,Gujarat,23.7167,72.1167,
+IN/384229,Lanva,Gujarat,23.7167,72.1167,
+IN/384230,Kamboi,Gujarat,23.63,71.98,
+IN/384231,Kalyana,Gujarat,23.63,71.98,
+IN/384235,Palasar,Gujarat,23.63,71.98,
+IN/384240,Harij,Gujarat,23.7,71.9,4
+IN/384242,Lolada,Gujarat,23.6917,71.8417,
+IN/384245,Sami,Gujarat,23.6833,71.7833,4
+IN/384246,Sankheswar,Gujarat,23.6917,71.8417,
+IN/384256,Chandrumana,Gujarat,23.63,71.98,
+IN/384257,Adia,Gujarat,23.63,71.98,
+IN/384265,Rajkawada,Gujarat,23.63,71.98,
+IN/384271,Aghar,Gujarat,23.63,71.98,
+IN/384274,Wamaiya,Gujarat,23.63,71.98,
+IN/384276,Sander,Gujarat,23.63,71.98,
+IN/384277,Sankhari,Gujarat,23.63,71.98,
+IN/384285,Wagrod,Gujarat,23.63,71.98,
+IN/384290,Kakoshi,Gujarat,23.63,71.98,
+IN/384305,Kada,Gujarat,23.7833,72.5667,
+IN/384312,Tarabh,Gujarat,23.7833,72.5667,
+IN/384320,Umta,Gujarat,23.7833,72.5667,4
+IN/384321,Jaska,Gujarat,23.7833,72.5667,
+IN/384327,Dabhad,Gujarat,23.7833,72.5667,
+IN/384328,DABHODA (Mahesana),Gujarat,23.7833,72.5667,
+IN/384350,Taranga Hill R S,Gujarat,23.7833,72.5667,
+IN/384365,Chhablia,Gujarat,23.7833,72.5667,
+IN/384370,Kahipur,Gujarat,23.7833,72.5667,
+IN/384375,Kamana,Gujarat,23.7833,72.5667,
+IN/384410,Balol,Gujarat,22.5333,72.1167,4
+IN/384411,Maguna,Gujarat,23.5833,72.2833,4
+IN/384430,Santhal,Gujarat,23.4833,72.25,4
+IN/384435,Linch,Gujarat,23.4833,72.25,
+IN/384440,Lakhvad,Gujarat,23.2,72.2167,
+IN/384513,Dabhi,Gujarat,23.5037,72.1241,
+IN/385001,Palanpur Joravar,Gujarat,24,71.9333,
+IN/385002,Palace,Gujarat,24,71.9333,
+IN/385010,Chitrasani,Gujarat,24,71.9333,
+IN/385011,Jagana,Gujarat,24,71.9333,
+IN/385111,Chadotar,Gujarat,24.2333,72.5167,
+IN/385112,Malan,Gujarat,24.2333,72.5167,4
+IN/385120,Danta Bhavangadh,Gujarat,24.1833,72.7667,4
+IN/385135,Iqbalgadh,Gujarat,24.2083,72.6417,
+IN/385210,Chhapi,Gujarat,24,71.9333,
+IN/385215,Majadar,Gujarat,24,71.9333,
+IN/385315,Ramsan,Gujarat,24.4333,72.05,4
+IN/385325,Tervada,Gujarat,24.0333,71.7,4
+IN/385340,Radhanpur,Gujarat,23.8333,71.6,4
+IN/385350,Santalpur,Gujarat,23.75,71.1667,4
+IN/385410,Vadgam,Gujarat,23.3667,71.7667,4
+IN/385421,Mamadpur,Gujarat,23.3667,71.7667,
+IN/385505,Dantiwada Colony,Gujarat,24.0333,71.9267,
+IN/385510,Chandisar,Gujarat,24.2167,72.3167,4
+IN/385515,Gadh,Gujarat,24.2167,72.3167,
+IN/385516,Samdhi Ranajivas,Gujarat,24.2167,72.3167,
+IN/385519,Madana,Gujarat,24.2167,72.3167,
+IN/385526,Basu,Gujarat,24.0667,72.3167,4
+IN/385531,Madetha,Gujarat,24.0333,71.9267,
+IN/385533,Kamboi Bk,Gujarat,24.0333,71.9267,
+IN/385541,Lakhani,Gujarat,24.0333,71.9267,
+IN/385546,Panthavada,Gujarat,24.0333,71.9267,
+IN/385551,Umbari,Gujarat,23.9667,71.8167,
+IN/385555,Thara,Gujarat,23.9667,71.8167,4
+IN/385560,Un,Gujarat,23.8833,71.7667,4
+IN/385565,Tharad,Gujarat,24.0333,71.4167,4
+IN/385585,Malgadh,Gujarat,24.0333,71.9267,
+IN/385586,Agathala,Gujarat,24.0333,71.9267,
+IN/385590,Vada,Gujarat,24.0333,71.9267,
+IN/385595,Chekhla,Gujarat,24.0333,71.9267,
+IN/387001,Nadiad H O,Gujarat,22.84,73.01,
+IN/387002,Patel Society Area,Gujarat,22.84,73.01,
+IN/387110,Ghodasar,Gujarat,24.45,71.85,
+IN/387111,Jaravat,Gujarat,22.84,73.01,
+IN/387113,Kailash Hindu Lodge,Gujarat,22.84,73.01,
+IN/387140,Haldarwas,Gujarat,22.84,73.01,
+IN/387210,Dabhow,Gujarat,22.84,73.01,
+IN/387220,Malataj,Gujarat,22.84,73.01,
+IN/387315,Chaklasi,Gujarat,22.65,72.9333,4
+IN/387320,Dabhan,Gujarat,22.8208,72.975,
+IN/387335,Mahudha,Gujarat,22.8167,72.9333,4
+IN/387340,Mahisa,Gujarat,22.85,73.05,4
+IN/387345,Narsanda,Gujarat,22.85,73.05,
+IN/387350,Palana,Gujarat,22.8208,72.975,
+IN/387360,Salun,Gujarat,22.9667,72.9833,
+IN/387365,Torna,Gujarat,22.9667,72.9833,4
+IN/387370,Uttarsanda,Gujarat,22.8208,72.975,
+IN/387375,Vadtal,Gujarat,22.8208,72.975,
+IN/387520,Limbasi,Gujarat,22.84,73.01,
+IN/387560,Radhu,Gujarat,22.84,73.01,
+IN/387620,Gandhi Chowk,Gujarat,22.9167,73.15,
+IN/387635,Chhipadi,Gujarat,22.9167,73.15,
+IN/387640,Lasundra,Gujarat,22.9167,73.15,4
+IN/387710,Ramol,Gujarat,22.84,73.01,
+IN/388001,V T College,Gujarat,22.7483,73.2167,
+IN/388110,Agri Inst Anand,Gujarat,22.4833,72.7167,
+IN/388120,V V Nagar,Gujarat,22.4833,72.7167,
+IN/388122,Gamdi,Gujarat,22.4833,72.7167,
+IN/388132,Sandesar,Gujarat,22.4833,72.7167,
+IN/388150,Nar,Gujarat,22.4833,72.7167,4
+IN/388160,Pandoli,Gujarat,22.4833,72.7167,
+IN/388180,Tarapur,Gujarat,22.4833,72.7167,
+IN/388210,Ode,Gujarat,22.9292,73.2958,
+IN/388215,Thamna,Gujarat,22.9292,73.2958,
+IN/388217,Padal,Gujarat,22.9292,73.2958,
+IN/388220,Umreth,Gujarat,22.7,73.1167,4
+IN/388225,Dakor H O,Gujarat,22.7,73.1167,
+IN/388230,Kalsar,Gujarat,22.9292,73.2958,
+IN/388236,Wanakbori,Gujarat,22.9292,73.2958,
+IN/388238,Wanghroli,Gujarat,22.9292,73.2958,
+IN/388239,T P S,Gujarat,22.9292,73.2958,
+IN/388250,Thasra,Gujarat,22.8,73.2167,4
+IN/388255,Vadasinor,Gujarat,22.95,73.3333,4
+IN/388256,Saliawadi,Gujarat,22.875,73.275,
+IN/388257,Othwad,Gujarat,22.875,73.275,
+IN/388258,Vaddla Vadasinor,Gujarat,22.875,73.275,
+IN/388261,Debhari,Gujarat,23.2667,73.5167,4
+IN/388265,Pandva,Gujarat,23.2667,73.5167,
+IN/388266,Jetholi,Gujarat,23.2667,73.5167,
+IN/388267,Bar,Gujarat,23.2667,73.5167,
+IN/388305,Adas,Gujarat,22.4833,72.9667,
+IN/388310,Ajarpura,Gujarat,22.4833,72.9667,
+IN/388315,Bakrol,Gujarat,22.4833,72.9667,
+IN/388320,Chikhodra,Gujarat,22.4833,72.9667,
+IN/388350,Napad,Gujarat,22.4833,72.9667,4
+IN/388360,Samarkha,Gujarat,22.4833,72.9667,
+IN/388370,Vadod,Gujarat,22.4833,72.9667,
+IN/388410,Bandhani,Gujarat,22.7483,73.2167,
+IN/388421,Changa,Gujarat,22.7483,73.2167,
+IN/388425,Gambhira,Gujarat,22.7483,73.2167,
+IN/388435,Vadadla,Gujarat,22.7483,73.2167,
+IN/388450,R S,Gujarat,22.7483,73.2167,
+IN/388465,Palaj,Gujarat,22.7483,73.2167,
+IN/388466,Charotar,Gujarat,22.7483,73.2167,
+IN/388515,Umeta,Gujarat,22.3333,73.0333,4
+IN/388520,Bamangam,Gujarat,22.3333,73.0333,
+IN/388540,Gandhi Ganj,Gujarat,22.3333,73.0333,
+IN/388544,Davol,Gujarat,22.3333,73.0333,
+IN/388555,Kalamsar,Gujarat,22.3333,73.0333,
+IN/388556,Dehvan,Gujarat,22.3333,73.0333,
+IN/388560,Napa,Gujarat,22.3333,73.0333,
+IN/388620,Ghasgawara,Gujarat,22.7483,73.2167,
+IN/388640,Undel,Gujarat,22.7483,73.2167,
+IN/388710,Timba Road,Gujarat,22.8167,73.3833,4
+IN/388711,Timba,Gujarat,22.8167,73.4,4
+IN/388712,Nadisar,Gujarat,22.8222,73.4222,
+IN/388713,Kakanpur,Gujarat,22.8333,73.4833,4
+IN/389001,R S,Gujarat,22.8667,73.8405,
+IN/389111,Limdi Doli,Gujarat,22.8556,74.0889,
+IN/389120,Sant Road,Gujarat,22.8556,74.0889,
+IN/389121,Natapur,Gujarat,22.8556,74.0889,
+IN/389122,Orvada,Gujarat,22.8556,74.0889,
+IN/389140,Limkheda,Gujarat,22.8167,73.9833,4
+IN/389145,Kadwal,Gujarat,22.8167,73.9833,
+IN/389151,Dahod H O,Gujarat,22.6833,74.3167,
+IN/389155,Garbada,Gujarat,22.6833,74.3167,4
+IN/389156,Abhlod,Gujarat,22.6833,74.3167,
+IN/389157,Bavka,Gujarat,22.6833,74.3167,
+IN/389160,Freeland Ganj Dahod,Gujarat,22.8556,74.0889,
+IN/389172,Fatepura (Pm),Gujarat,23.0667,73.9667,
+IN/389175,Sanjeli,Gujarat,23.0667,73.9667,4
+IN/389180,Limdi Pm,Gujarat,22.8556,74.0889,
+IN/389230,Mandvi,Gujarat,22.8333,69.3667,
+IN/389232,Bakor,Gujarat,23.3333,73.6,4
+IN/389240,Kadana,Gujarat,23.3,73.8333,4
+IN/389260,Santrampur,Gujarat,23.3167,73.7167,
+IN/389310,Deiol,Gujarat,22.4333,73.5917,
+IN/389325,Jantral Pm,Gujarat,22.4333,73.5917,
+IN/389330,Kalol P M,Gujarat,22.4333,73.5917,
+IN/389341,Adadra,Gujarat,22.4333,73.5917,
+IN/389342,Eral,Gujarat,22.4333,73.5917,
+IN/389350,Halol,Gujarat,22.5,73.4667,4
+IN/389352,Baska,Gujarat,22.5,73.4667,
+IN/389365,Ghogamba,Gujarat,22.4333,73.5917,
+IN/389390,Jambughoda,Gujarat,22.3667,73.7167,4
+IN/390001,Vadodara,Gujarat,22.3,73.2,4
+IN/390002,Chhani Road,Gujarat,21.9417,73.2917,
+IN/390003,Vadodara Chemical Industr,Gujarat,21.9417,73.2917,
+IN/390004,Vadodara Pratapnagar,Gujarat,21.9417,73.2917,
+IN/390005,Akota,Gujarat,21.9417,73.2917,
+IN/390006,Harni Aerodrame,Gujarat,21.9417,73.2917,
+IN/390007,Vadodara Race Course,Gujarat,21.9417,73.2917,
+IN/390008,Vadodara E M E School,Gujarat,21.9417,73.2917,
+IN/390009,Vadodara O N G C Colony,Gujarat,21.9417,73.2917,
+IN/390010,Vadodara Makarpura I E,Gujarat,21.9417,73.2917,
+IN/390011,Vadodara Manjalpur,Gujarat,21.9417,73.2917,
+IN/390012,Vadodara Atlardra,Gujarat,21.9417,73.2917,
+IN/390013,Vadodara Maneja,Gujarat,21.9417,73.2917,
+IN/390014,Vadodara Makarpura,Gujarat,21.9417,73.2917,
+IN/390015,Vadodara Vidyutnagar Colo,Gujarat,21.9417,73.2917,
+IN/390016,Vadodara Ind Estate,Gujarat,21.9417,73.2917,
+IN/390017,Gendigate,Gujarat,21.9417,73.2917,
+IN/390018,Vadodara Kareli Bag,Gujarat,21.9417,73.2917,
+IN/390019,Vaghodia Road,Gujarat,21.9417,73.2917,
+IN/391105,Chandod,Gujarat,21.9833,73.4667,4
+IN/391107,Thuvavi,Gujarat,21.9833,73.4667,
+IN/391108,Furtikui,Gujarat,21.9833,73.4667,
+IN/391110,Vadodari Bhaghol,Gujarat,22.1111,73.7528,
+IN/391120,Tilakwada,Gujarat,21.95,73.5833,4
+IN/391137,Nana Amodra,Gujarat,22.1111,73.7528,
+IN/391141,Chalamali,Gujarat,22.1667,73.5833,
+IN/391142,Kadachhala,Gujarat,22.1667,73.5833,
+IN/391145,Sankheda,Gujarat,22.1667,73.5833,4
+IN/391146,Parvata,Gujarat,22.1667,73.5833,
+IN/391150,Naswadi,Gujarat,22.05,73.8333,
+IN/391151,Tanakhala,Gujarat,22.05,73.8333,
+IN/391152,Gad Boriad,Gujarat,22.05,73.8333,4
+IN/391155,Jabugam,Gujarat,22.05,73.8333,
+IN/391156,Tejgadh,Gujarat,22.05,73.8333,
+IN/391165,Chhota Udepur,Gujarat,22.3167,74.0167,4
+IN/391168,Panvad,Gujarat,22.2,74.0333,4
+IN/391175,Kadipani,Gujarat,22.1111,73.7528,
+IN/391210,Kandari,Gujarat,22.0833,73.3333,
+IN/391230,Mandala,Gujarat,22.0833,73.3333,4
+IN/391250,Sadhli,Gujarat,22.0833,73.3333,
+IN/391310,Bajwa,Gujarat,22.1682,73.4652,
+IN/391320,Jawahar Nagar,Gujarat,22.1682,73.4652,
+IN/391340,Nandesari I E,Gujarat,22.1682,73.4652,
+IN/391440,Padra,Gujarat,22.2333,73.0833,4
+IN/391441,Dabka,Gujarat,22.25,72.95,4
+IN/391460,Vadu,Gujarat,22.2417,73.0167,
+IN/391510,Jarod,Gujarat,22.4333,73.3333,4
+IN/391520,Samlaya R S,Gujarat,22.4333,73.3333,
+IN/391530,Sandasal,Gujarat,22.4333,73.3333,
+IN/391740,Chhani,Gujarat,22.1682,73.4652,
+IN/391810,Gajera,Gujarat,22.1833,72.9,
+IN/391815,Kahanva,Gujarat,22.1833,72.9,4
+IN/391817,Vadach,Gujarat,22.1833,72.9,
+IN/392001,Gayatri Nagar,Gujarat,21.7917,72.7917,
+IN/392011,Zadeshwar,Gujarat,21.7917,72.7917,
+IN/392013,Tavra,Gujarat,21.7917,72.7917,
+IN/392015,Narmadanagar,Gujarat,21.7917,72.7917,
+IN/392020,Dayadra,Gujarat,21.7917,72.7917,
+IN/392021,Pariej,Gujarat,21.7917,72.7917,
+IN/392025,Samni,Gujarat,21.7917,72.7917,
+IN/392040,Tankan,Gujarat,21.7917,72.7917,
+IN/392111,Achhod,Gujarat,21.7,72.5833,
+IN/392130,Dahej,Gujarat,21.7,72.5833,4
+IN/392150,Jambusar Bazar,Gujarat,21.7,72.5833,
+IN/392153,Uber,Gujarat,21.7,72.5833,
+IN/392163,Tham,Gujarat,21.7,72.5833,
+IN/392165,Pakhajan,Gujarat,21.7,72.5833,
+IN/392210,Nabipur,Gujarat,21.8833,73,
+IN/392220,Palej,Gujarat,21.8833,73,
+IN/392230,Ikhar,Gujarat,21.8833,73,
+IN/392240,Tankaria,Gujarat,21.8833,73,4
+IN/393010,O N G C Ankleshwar,Gujarat,21.5958,73.2708,
+IN/393020,Sajod,Gujarat,21.6167,72.9,4
+IN/393030,Hansot,Gujarat,21.5833,72.8,4
+IN/393040,Dediapada,Gujarat,21.6333,73.5833,4
+IN/393050,Sagbara,Gujarat,21.55,73.8,4
+IN/393115,Rajpardi,Gujarat,21.7167,73.3583,
+IN/393120,Umalla,Gujarat,21.5667,73.2167,
+IN/393125,Deheli,Gujarat,21.5667,73.2167,4
+IN/393145,Vadia Colony,Gujarat,21.8667,73.5,
+IN/393150,Lachhras,Gujarat,21.7167,73.3583,
+IN/394105,Utran P H C,Gujarat,21.2833,72.9833,
+IN/394114,Nani Naroli,Gujarat,21.2833,72.9833,
+IN/394115,Panol,Gujarat,21.2833,72.9833,
+IN/394120,Tarsadi,Gujarat,21.2833,72.9833,
+IN/394125,Hathuran,Gujarat,21.2833,72.9833,
+IN/394155,Ghala,Gujarat,21.2833,72.9833,
+IN/394160,Mandvi Surat,Gujarat,21.2833,72.9833,
+IN/394170,Tadkeshwar,Gujarat,21.2833,72.9833,
+IN/394180,Kamrej,Gujarat,21.2833,72.9833,4
+IN/394185,Kamrej Char Rasta,Gujarat,21.2833,72.9833,
+IN/394210,Udhna,Gujarat,20.9778,73.1,
+IN/394220,Baroda Rayon,Gujarat,20.9778,73.1,
+IN/394221,Pandesara I E,Gujarat,20.9778,73.1,
+IN/394230,Sachin,Gujarat,21.0833,72.8833,4
+IN/394235,Lajpor,Gujarat,21.0833,72.8833,
+IN/394241,Naldhara,Gujarat,20.9667,73.1667,4
+IN/394243,Umra,Gujarat,20.8833,73.25,4
+IN/394244,Mahuvaria,Gujarat,20.925,73.2083,
+IN/394245,Zervavra,Gujarat,20.925,73.2083,
+IN/394250,Mahuva N,Gujarat,20.9778,73.1,
+IN/394270,Hajira,Gujarat,20.9778,73.1,
+IN/394305,Chalthan,Gujarat,21.4667,71.7722,
+IN/394310,Gangadhra R S,Gujarat,21.0833,72.9833,
+IN/394315,Palsana,Gujarat,21.0833,72.9833,4
+IN/394317,Baleshwar,Gujarat,21.0833,72.9833,
+IN/394325,Umbhel,Gujarat,21.4667,71.7722,
+IN/394327,Kadodara,Gujarat,21.4667,71.7722,
+IN/394330,Orna,Gujarat,21.2167,73.2333,
+IN/394335,Kadod,Gujarat,21.2167,73.2333,4
+IN/394340,Madhi,Gujarat,22.1,69.1,4
+IN/394360,Kakrapar,Gujarat,21.4667,71.7722,
+IN/394364,Unchamala,Gujarat,21.4667,71.7722,
+IN/394375,Uchhal,Gujarat,21.4667,71.7722,
+IN/394440,Zankhavav,Gujarat,21.45,73.5,
+IN/394445,Umarpada,Gujarat,21.45,73.5,4
+IN/394515,Fertilizernagar Tribhco S,Gujarat,21.3333,72.75,
+IN/394540,Olpad,Gujarat,21.3333,72.75,4
+IN/394601,Bardoli H Q,Gujarat,21.2167,72.7333,
+IN/394631,Gadat (Bihar),Gujarat,21.2167,72.7333,
+IN/394650,R S,Gujarat,21.2167,72.7333,
+IN/394660,Central Pulp Mills,Gujarat,21.2167,72.7333,
+IN/394670,Fort Songadh,Gujarat,21.2167,72.7333,
+IN/394680,Cenral Colony,Gujarat,21.2167,72.7333,
+IN/394690,Bajipura,Gujarat,21.2167,72.7333,
+IN/394710,Ahwa Dangs,Gujarat,20.7667,73.4833,
+IN/394720,Saputara,Gujarat,20.7667,73.4833,
+IN/394730,Waghai,Gujarat,20.7667,73.4833,4
+IN/394810,Illav,Gujarat,21.2167,72.7333,
+IN/395002,Sagrampura,Gujarat,21.1667,72.8333,
+IN/395003,Salabatpura,Gujarat,21.1667,72.8333,4
+IN/395005,Ramnagar,Gujarat,21.1667,72.8333,
+IN/396001,Chhipwad,Gujarat,20.6,72.9,
+IN/396006,Tithal,Gujarat,20.6,72.9,4
+IN/396020,Bamti,Gujarat,20.7833,72.1667,
+IN/396025,Tiskari,Gujarat,20.7833,72.1667,
+IN/396030,Hanuman Bhagda,Gujarat,20.7833,72.1667,
+IN/396041,Achhavani,Gujarat,20.9667,71.4333,
+IN/396042,Vad,Gujarat,20.9667,71.4333,4
+IN/396065,Nani Vahial,Gujarat,20.7833,72.1667,
+IN/396112,Zaroli,Gujarat,20.3583,72.8208,
+IN/396125,Damnizumpa,Gujarat,20.3583,72.8208,
+IN/396126,Nana Pondha,Gujarat,20.3583,72.8208,
+IN/396135,Nargol,Gujarat,20.2333,72.75,4
+IN/396142,Kalgam,Gujarat,20.3583,72.8208,
+IN/396145,Pardi Paria,Gujarat,20.3583,72.8208,
+IN/396156,Manda,Gujarat,20.3583,72.8208,
+IN/396170,Umargam,Gujarat,20.2,72.75,4
+IN/396171,Umargam I E,Gujarat,20.3583,72.825,
+IN/396175,Umarsadi,Gujarat,20.5167,72.9,4
+IN/396180,Udvada,Gujarat,20.4833,72.8833,4
+IN/396185,Udvada R S,Gujarat,20.4833,72.8833,
+IN/396210,Daman,Daman and Diu,20.4167,72.85,4
+IN/396220,Moti Daman,Daman and Diu,20.3233,72.93,
+IN/396223,Magarwada,Gujarat,20.3233,72.93,
+IN/396230,Silvasa,Dadar and Nagar Haveli,20.2833,72.95,
+IN/396235,Naroli,Dadar and Nagar Haveli,20.2833,72.95,4
+IN/396240,Karad,Dadar and Nagar Haveli,20.2167,73.05,4
+IN/396321,R S,Gujarat,20.825,72.975,
+IN/396340,Endhal,Gujarat,20.825,72.975,
+IN/396350,Gadat,Gujarat,20.825,72.975,
+IN/396360,Gandevi,Gujarat,20.8167,72.9833,4
+IN/396370,Kachchha,Gujarat,20.8333,72.9667,
+IN/396385,Untdi,Gujarat,20.825,72.975,
+IN/396403,Aat,Gujarat,20.9333,72.9167,
+IN/396406,Abrama,Gujarat,20.9333,72.9167,
+IN/396415,Dabhel,Gujarat,21.0333,72.95,4
+IN/396421,Jalalpore,Gujarat,20.9667,72.9,
+IN/396424,Kabilpore,Gujarat,20.9333,72.9167,
+IN/396427,Kaliavadi,Gujarat,20.9333,72.9167,
+IN/396445,Udyognagar,Gujarat,20.9333,72.9167,
+IN/396450,Eru Agri College,Gujarat,20.9333,72.9167,
+IN/396452,Sadadvel,Gujarat,20.9333,72.9167,
+IN/396460,Panar,Gujarat,20.8333,72.8833,4
+IN/396469,Ugat,Gujarat,20.8333,72.8833,
+IN/396521,Chikhli,Gujarat,20.75,73.0667,4
+IN/396530,Degam,Gujarat,22.1667,72.6,4
+IN/396540,Fadvel,Gujarat,21.4583,72.8333,
+IN/396590,Unai,Gujarat,21.4583,72.8333
